@@ -1,0 +1,6 @@
+/node_modules
+.umi
+.history
+/dist
+/build
+tailwind.config.ts
